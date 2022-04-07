@@ -1,0 +1,67 @@
+html {
+    background: url(imagens/bg.jpg);
+}
+#logo {
+    background:rgb(190, 190, 190);
+    position: absolute;
+    width: 10%;
+}
+
+.principal {
+    background: rgb(190, 190, 190);
+    height: 250px;
+    right: 10;
+    padding-top: 50px;
+    padding-bottom: 0;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+
+.titulo-principal{
+    color: white;
+    padding-top: 15px;
+    text-align: center;
+    font-size: 45px;
+    background: url(imagens/bg.jpg);
+    font-family: 'Roboto', sans-serif;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+p{
+    text-align: center;
+    }
+#missao {
+    font-size: 20px;
+}
+em strong {
+    color: #FF0000;
+}
+
+.itens {
+    font-style: italic;
+    font-family: 'Roboto', sans-serif;
+    margin: 15px;
+    size: 10px;
+}
+.beneficios{
+    background: rgb(190, 190, 190);
+    padding: 20px;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    font-family: 'Roboto', sans-serif;
+}
+.maps {
+    width: 50%;
+    box-sizing: inherit;
+   
+}
+
